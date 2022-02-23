@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>تواصل معنا</title>
+    <!-- TemplateEndEditable -->
+    <link rel="icon" type="image/png" sizes="1667x1667" href="../assets/img/logo_png.png">
+    <link rel="icon" type="image/png" sizes="1667x1667" href="../assets/img/logo_png.png">
+    <link rel="icon" type="image/png" sizes="1667x1667" href="../assets/img/logo_png.png">
+    <link rel="icon" type="image/png" sizes="1667x1667" href="../assets/img/logo_png.png">
+    <link rel="icon" type="image/png" sizes="1667x1667" href="../assets/img/logo_png.png">
+    <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i,600,600i">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Actor">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amiri">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Baloo+Bhaijaan">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cairo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:400,600,800">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tajawal">
+    <link rel="stylesheet" href="../assets/fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="../assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="../assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="../assets/fonts/fontawesome5-overrides.min.css">
+    <link rel="stylesheet" href="../assets/css/styles.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightpick@1.3.4/css/lightpick.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.min.css">
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+مستشفئ ينبع الوطني
+
+YANBU NATIONAL HOSPITAL
+</head>
+
+<body>
+    <nav class="navbar navbar-light navbar-expand-lg fixed-top bg-white border-light border rounded clean-navbar">
+        <div class="container-fluid"><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse text-left d-xl-flex justify-content-xl-end"
+                id="navcol-1" style="font-family: Cairo, sans-serif;font-size: 29px;">
+                <div class="text-center d-flex align-items-xl-center" style="margin-left: 36px;"><a class="btn btn-outline-light disabled active btn-block btn-lg text-center mx-auto action-button" role="button" style="width: 151px;font-size: 15px;border: 1px solid #01a982;color: #01a982;font-family: 'Source Sans Pro', sans-serif;"
+                        href="#">014-3962000<i class="fa fa-phone" style="padding-left: 9px;"></i></a>
+                    <h3 style="margin-left: 12px;font-size: 16px;">للتواصل</h3>
+                </div>
+                <ul class="nav navbar-nav text-right d-xl-flex ml-auto justify-content-xl-end">
+                    <li class="nav-item" role="presentation" style="padding-right: 15px;"><a class="nav-link active" href="../contact-us.html" style="font-family: Cairo, sans-serif;font-style: normal;font-size: 15px;">تواصل معنا</a></li>
+                    <li class="nav-item" role="presentation" style="padding-right: 15px;"><a class="nav-link" href="../rewards.html" style="font-size: 15px;">جوائز المستشفى<br></a></li>
+                    <li class="nav-item" role="presentation" style="padding-right: 15px;"><a class="nav-link" href="../vision.html" style="font-size: 15px;">الرؤية</a></li>
+                    <li class="nav-item dropdown" style="padding-right: 15px;"><a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" style="font-size: 15px;">الاقسام</a>
+                        <div class="dropdown-menu" role="menu"><a class="dropdown-item" role="presentation" href="../dept/dept_detail1.html">قسم الجراحة</a><a class="dropdown-item" role="presentation" href="../dept/dept_detail_2.html">قسم امر اض النساء&nbsp; والولادة&nbsp;</a><a class="dropdown-item"
+                                role="presentation" href="../dept/dept_detail_3.html">قسم أمراض العيون&nbsp;</a><a class="dropdown-item" role="presentation" href="../dept/dept_detail_4.html">قسم أمراض المسالك البولية&nbsp;</a><a class="dropdown-item" role="presentation"
+                                href="../dept/dept_detail_5.html">قسم العظام&nbsp;والعلاج الطبيعي&nbsp; </a><a class="dropdown-item" role="presentation" href="../dept/dept_detail_6.html">قسم الأمراض الباطنية والجهاز الهضمي&nbsp;</a><a class="dropdown-item" role="presentation"
+                                href="../dept/dept_detail_7.html">قسم أمراض القلب&nbsp;</a><a class="dropdown-item" role="presentation" href="../dept/dept_detail_8.html">قسم أمراض الجلدية والتناسلية&nbsp;</a><a class="dropdown-item" role="presentation" href="../dept/dept_detail_9.html">قسم الأمراض الصدرية&nbsp;<br></a>
+                            <a
+                                class="dropdown-item" role="presentation" href="../dept/dept_detail_10.html">قسم أمراض الأنف والأذن والحنجرة&nbsp;</a><a class="dropdown-item" role="presentation" href="../dept/dept_detail_11.html">قسم التغذية الإكلينيكية&nbsp;</a><a class="dropdown-item" role="presentation" href="../dept/dept_detail_12.html">قسم الأسنان&nbsp;</a></div>
+                    </li>
+                    <li class="nav-item" role="presentation" style="padding-right: 15px;"><a class="nav-link" href="../about.html" style="font-size: 15px;">نبذة عنا<br></a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link" href="../index.html" style="color: rgba(0,0,0,0.5);font-size: 15px;">الصفحة الرئيسية</a></li>
+                </ul>
+            </div><a class="navbar-brand text-right d-xl-flex justify-content-xl-end align-items-xl-center logo" href="../index.html" style="font-family: Tajawal, sans-serif;font-weight: bold;font-style: normal;color: #003f87;font-size: 18px;">مستشفى ينبع الوطني<img src="../assets/img/logo_v2.png" width="100" height="50" style="margin-left: 13px;"></a></div>
+    </nav>
+    <main class="page contact-us-page">
+        <section class="clean-block clean-form dark">
+            <div class="container">
+                <div class="block-heading">
+                    <h2 class="text-info" style="font-family: Cairo, sans-serif;">تواصل معنا</h2>
+                    <p style="font-family: Tajawal, sans-serif;">معلومات&nbsp; التواصل مع مستشفى ينبع الوطني&nbsp;&nbsp;</p>
+                </div>
+            </div>
+            <div class="social-icons"><a href="https://twitter.com/ynh_mhs?s=11" target="_blank"><i class="icon ion-social-twitter" style="color: #3F9BE0;"></i></a><a href="https://www.instagram.com/yanbunational/" target="_blank"><i class="icon ion-social-instagram-outline" style="color: #3F9BE0;"></i></a>
+                <a
+                    href="mailto:job@ynh.com.sa" target="_blank"><i class="icon ion-ios-email-outline" style="color: #3F9BE0;"></i></a>
+            </div>
+            <div class="container">
+                <div class="block-heading">
+                    <h2 class="text-info shadow" style="font-family: Cairo, sans-serif;padding: 10px;">ارقامنا</h2>
+                    <h5 class="text-right" style="font-family: Tajawal, sans-serif;padding: 24px;font-size: 21px;font-weight: 200;">هاتف&nbsp;</h5>
+                    <div class="text-right shadow d-flex justify-content-xl-end align-items-xl-center" style="padding-right: 31px;">
+                        <h5 class="text-right d-xl-flex justify-content-xl-end" style="font-family: Tajawal, sans-serif;padding: 24px;font-size: 21px;font-weight: 200;margin-right: 8px;">014-3962000</h5><i class="fa fa-phone" style="color: rgb(59,153,224);font-size: 54px;"></i></div>
+                    <h5 class="text-right" style="font-family: Tajawal, sans-serif;padding: 24px;font-size: 21px;font-weight: 200;">قسم التقارير الطبية والمواليد </h5>
+                    <div class="text-right shadow d-flex justify-content-xl-end align-items-xl-center" style="padding-right: 31px;">
+                        <h5 class="text-right d-xl-flex justify-content-xl-end" style="font-family: Tajawal, sans-serif;padding: 24px;font-size: 21px;font-weight: 200;margin-right: 8px;">014-39620001352-387</h5><i class="fa fa-phone" style="color: rgb(59,153,224);font-size: 54px;"></i></div>
+                    <h5 class="text-right" style="font-family: Tajawal, sans-serif;padding: 24px;font-size: 21px;font-weight: 200;">قسم التأمين </h5>
+                    <div class="text-right shadow d-flex justify-content-xl-end align-items-xl-center" style="padding-right: 31px;">
+                        <h5 class="text-right d-xl-flex justify-content-xl-end" style="font-family: Tajawal, sans-serif;padding: 24px;font-size: 21px;font-weight: 200;margin-right: 8px;">014-39620001424-558</h5><i class="fa fa-phone" style="color: rgb(59,153,224);font-size: 54px;"></i></div>
+                    <h5 class="text-right" style="font-family: Tajawal, sans-serif;padding: 24px;font-size: 21px;font-weight: 200;">موقعنا</h5>
+                    <div class="text-right shadow d-flex justify-content-xl-end align-items-xl-center" style="padding-right: 31px;"><a href="https://www.google.com/maps/place/%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89+%D9%8A%D9%86%D8%A8%D8%B9+%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%E2%80%AD/@24.007476,38.2187143,17z/data=!4m19!1m13!4m12!1m4!2m2!1d44.0103913!2d13.5746995!4e1!1m6!1m2!1s0x15b9192e821c1ee1:0x36e7b4e8e16e4e4e!2z2YXYs9iq2LTZgdmJINmK2YbYqNi5INin2YTZiNi32YbZiuKArQ!2m2!1d38.218875!2d24.0074543!3m4!1s0x15b9192e821c1ee1:0x36e7b4e8e16e4e4e!8m2!3d24.0074543!4d38.218875?hl=en"
+                            style="font-family: Tajawal, sans-serif;font-size: 20px;" target="_blank">الخريطة</a>
+                        <h5 class="text-right d-xl-flex justify-content-xl-end" style="font-family: Tajawal, sans-serif;padding: 24px;font-size: 21px;font-weight: 200;margin-right: 8px;">&nbsp;Anwah street، An Nawah, Yanbu 46456, Saudi Arabia&nbsp;</h5><i class="fa fa-phone" style="color: rgb(59,153,224);font-size: 54px;"></i></div>
+                </div>
+            </div>
+            <div class="map-clean">
+                <div class="container">
+                    <!-- Start: Intro -->
+                    <div class="intro">
+                        <h2 class="text-center" style="font-family: Tajawal, sans-serif;color: rgb(59,153,224);"><br></h2>
+                    </div>
+                    <!-- End: Intro -->
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer class="page-footer dark">
+        <div class="container-fluid">
+            <div class="row no-gutters row-cols-sm-4 row-cols-md-5 row-cols-lg-5 row-cols-xl-5 text-center d-xl-flex justify-content-xl-center align-items-xl-start" style="padding: -13px0;">
+                <div class="col text-left" style="margin-right: 65px;">
+                    <h5 class="text-center" style="font-family: Cairo, sans-serif;">تواصل</h5>
+                    <ul>
+                        <li><a href="#" style="font-family: Tajawal, sans-serif;">هاتف&nbsp;<br>014-3962000<br></a></li>
+                        <li><a href="#" style="font-family: Tajawal, sans-serif;">قسم التقارير الطبية والمواليد&nbsp;<br>014-39620001352-387</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-3 text-left">
+                    <h5 class="text-center" style="font-family: Cairo, sans-serif;">تابعنا على<br></h5>
+                    <ul class="social-icons" style="background-color: rgba(255,255,255,0);margin: -48px;">
+                        <li class="text-center d-flex d-lg-flex d-xl-inline-flex justify-content-center">
+                            <div class="d-table"><a href="https://twitter.com/ynh_mhs?s=11" target="_blank"><i class="icon ion-social-twitter"></i></a>
+                                <hr style="margin-top: -7px;color: rgba(255,255,255,0);"><a href="https://twitter.com/ynh_mhs?s=11" style="font-family: Tajawal, sans-serif;" target="_blank">تويتر</a></div>
+                            <div class="d-table"><a href="#"><i class="icon ion-social-instagram-outline"></i></a>
+                                <hr style="margin-top: -7px;color: rgba(255,255,255,0);"><a href="https://www.instagram.com/yanbunational/" style="font-family: Tajawal, sans-serif;" target="_blank">انستجرام</a></div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-sm-3 text-left">
+                    <h5 class="text-center" style="font-family: Cairo, sans-serif;">من نحن</h5>
+                    <ul>
+                        <li><a href="../contact-us.html" style="font-family: Tajawal, sans-serif;">تواصل معنا<br></a></li>
+                        <li><a href="../about.html" style="font-family: Tajawal, sans-serif;">نبذة عنا</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-3 text-left">
+                    <h5 class="text-center" style="font-family: Cairo, sans-serif;">الصفحة الرئيسية</h5>
+                    <ul>
+                        <li><a href="../all_dept.html" style="font-family: Tajawal, sans-serif;">الاقسام</a></li>
+                        <li><a class="d-flex justify-content-center justify-content-xl-start" href="../rewards.html" style="font-family: Tajawal, sans-serif;font-weight: normal;font-style: normal;color: #b5b5b5;"><strong>جوائز المستشفى</strong><br></a></li>
+                        <li><a href="../testimonials.html" style="font-family: Tajawal, sans-serif;">اراء الناس</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-copyright">
+            <div class="text-center d-table d-xl-flex justify-content-xl-start align-items-xl-center" style="margin-left: 26px;"><a href="../statementprivacy.html" style="font-family: Tajawal, sans-serif;font-size: 12px;">سياسة الخصوصية</a><a href="#" style="font-family: Tajawal, sans-serif;margin-left: 26px;">|<br></a><a href="../terms_of_use.html" style="font-family: Tajawal, sans-serif;margin-right: 66px;margin-left: 31px;font-size: 12px;">تعليمات الاستخدام<br></a></div>
+            <p
+                class="text-center d-xl-flex justify-content-xl-center" style="font-family: Cairo, sans-serif;">Copyright © 2022&nbsp; حقوق النشر&nbsp; جميع الحقوق محفوظة لدى&nbsp;مستشفى ينبع الوطني<br></p>
+        </div>
+    </footer>
+    <script src="../assets/js/jquery.min.js"></script>
+    <script src="../assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="../assets/js/smart-forms.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lightpick@1.3.4/lightpick.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.jquery.min.js"></script>
+    <script src="../assets/js/script.min.js"></script>
+</body>
+
+</html>

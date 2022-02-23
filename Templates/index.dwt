@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>الرئيسية</title>
+    <!-- TemplateEndEditable -->
+    <link rel="icon" type="image/png" sizes="1667x1667" href="../assets/img/logo_png.png">
+    <link rel="icon" type="image/png" sizes="1667x1667" href="../assets/img/logo_png.png">
+    <link rel="icon" type="image/png" sizes="1667x1667" href="../assets/img/logo_png.png">
+    <link rel="icon" type="image/png" sizes="1667x1667" href="../assets/img/logo_png.png">
+    <link rel="icon" type="image/png" sizes="1667x1667" href="../assets/img/logo_png.png">
+    <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i,600,600i">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Actor">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Amiri">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Baloo+Bhaijaan">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cairo">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:400,600,800">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Tajawal">
+    <link rel="stylesheet" href="../assets/fonts/fontawesome-all.min.css">
+    <link rel="stylesheet" href="../assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="../assets/fonts/ionicons.min.css">
+    <link rel="stylesheet" href="../assets/fonts/fontawesome5-overrides.min.css">
+    <link rel="stylesheet" href="../assets/css/styles.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightpick@1.3.4/css/lightpick.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/css/swiper.min.css">
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+مستشفئ ينبع الوطني
+
+YANBU NATIONAL HOSPITAL
+</head>
+
+<body>
+    <!-- Start: Scroll To Top --><a data-aos="fade" id="scroll-to-top" title="Scroll to top" href="#" style="opacity: 0.38;filter: brightness(200%);"><i class="fas fa-angle-up"></i></a>
+    <!-- End: Scroll To Top -->
+    <nav class="navbar navbar-light navbar-expand-lg fixed-top bg-white border-light border rounded clean-navbar">
+        <div class="container-fluid"><button data-toggle="collapse" class="navbar-toggler" data-target="#navcol-1"><span class="sr-only">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse text-left d-xl-flex justify-content-xl-end"
+                id="navcol-1" style="font-family: Cairo, sans-serif;font-size: 29px;">
+                <div class="text-center d-flex align-items-xl-center" style="margin-left: 36px;"><a class="btn btn-outline-light disabled active btn-block btn-lg text-center mx-auto action-button" role="button" style="width: 151px;font-size: 15px;border: 1px solid #01a982;color: #01a982;font-family: 'Source Sans Pro', sans-serif;"
+                        href="#">014-3962000<i class="fa fa-phone" style="padding-left: 9px;"></i></a>
+                    <h3 style="margin-left: 12px;font-size: 16px;">للتواصل</h3>
+                </div>
+                <ul class="nav navbar-nav text-right d-xl-flex ml-auto justify-content-xl-end">
+                    <li class="nav-item" role="presentation" style="padding-right: 15px;"><a class="nav-link" href="../contact-us.html" style="font-family: Cairo, sans-serif;font-style: normal;font-size: 15px;">تواصل معنا</a></li>
+                    <li class="nav-item" role="presentation" style="padding-right: 15px;"><a class="nav-link" href="../rewards.html" style="font-size: 15px;">جوائز المستشفى<br></a></li>
+                    <li class="nav-item" role="presentation" style="padding-right: 15px;"><a class="nav-link" href="../vision.html" style="font-size: 15px;">الرؤية</a></li>
+                    <li class="nav-item dropdown" style="padding-right: 15px;"><a class="dropdown-toggle nav-link" data-toggle="dropdown" aria-expanded="false" style="font-size: 15px;">الاقسام</a>
+                        <div class="dropdown-menu" role="menu"><a class="dropdown-item" role="presentation" href="../dept/dept_detail1.html">قسم الجراحة</a><a class="dropdown-item" role="presentation" href="../dept/dept_detail_2.html">قسم امر اض النساء&nbsp; والولادة&nbsp;</a><a class="dropdown-item"
+                                role="presentation" href="../dept/dept_detail_3.html">قسم أمراض العيون&nbsp;</a><a class="dropdown-item" role="presentation" href="../dept/dept_detail_4.html">قسم أمراض المسالك البولية&nbsp;</a><a class="dropdown-item" role="presentation"
+                                href="../dept/dept_detail_5.html">قسم العظام&nbsp;والعلاج الطبيعي&nbsp; </a><a class="dropdown-item" role="presentation" href="../dept/dept_detail_6.html">قسم الأمراض الباطنية والجهاز الهضمي&nbsp;</a><a class="dropdown-item" role="presentation"
+                                href="../dept/dept_detail_7.html">قسم أمراض القلب&nbsp;</a><a class="dropdown-item" role="presentation" href="../dept/dept_detail_8.html">قسم أمراض الجلدية والتناسلية&nbsp;</a><a class="dropdown-item" role="presentation" href="../dept/dept_detail_9.html">قسم الأمراض الصدرية&nbsp;<br></a>
+                            <a
+                                class="dropdown-item" role="presentation" href="../dept/dept_detail_10.html">قسم أمراض الأنف والأذن والحنجرة&nbsp;</a><a class="dropdown-item" role="presentation" href="../dept/dept_detail_11.html">قسم التغذية الإكلينيكية&nbsp;</a><a class="dropdown-item" role="presentation" href="../dept/dept_detail_12.html">قسم الأسنان&nbsp;</a></div>
+                    </li>
+                    <li class="nav-item" role="presentation" style="padding-right: 15px;"><a class="nav-link" href="../about.html" style="font-size: 15px;">نبذة عنا<br></a></li>
+                    <li class="nav-item" role="presentation"><a class="nav-link active" href="../index.html" style="color: rgba(0,0,0,0.5);font-size: 15px;">الصفحة الرئيسية</a></li>
+                </ul>
+            </div><a class="navbar-brand text-right d-xl-flex justify-content-xl-end align-items-xl-center logo" href="../index.html" style="font-family: Tajawal, sans-serif;font-weight: bold;font-style: normal;color: #003f87;font-size: 18px;">مستشفى ينبع الوطني<img src="../assets/img/logo_v2.png" width="100" height="50" style="margin-left: 13px;"></a></div>
+    </nav>
+    <div class="text-monospace text-nowrap text-truncate text-break" style="margin-top: 51px;">
+        <!-- Start: Swipe Slider 7 --><!-- Paradise Slider -->
+<div id="fw_al_001" class="carousel slide ps_slide_y ps_indicators_y swipe_y ps_easeOutQuint" data-ride="carousel" data-pause="hover" data-interval="5000" data-duration="2500">
+
+    <!-- Indicators -->
+    <ol style="color:rgb(20, 112, 203) !important ;" class="carousel-indicators">
+        <li data-target="#fw_al_001" style="color:rgb(20, 112, 203) !important ; background-color: rgb(20, 112, 203) !important ;" data-slide-to="0" class="active"></li>
+        <li data-target="#fw_al_001" style="color:rgb(20, 112, 203) !important ; background-color: rgb(20, 112, 203) !important ;" data-slide-to="1"></li>
+        <li data-target="#fw_al_001" style="color:rgb(20, 112, 203) !important ; background-color: rgb(20, 112, 203) !important ;" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper For Slides -->
+    <div class="carousel-inner " role="listbox">
+
+        <!-- First Slide -->
+        <div class="width carousel-item active ">
+
+            <!-- Slide Background -->
+            <img src="../assets/img/IMG-20220127-WA0035.jpg" alt="fw_al_001_01 ">
+
+            <!-- Slide Text Layer -->
+            <div class="fw_al_001_slide ">
+                <h3 style="font-family: Cairo, sans-serif; letter-spacing: 1px; " data-animation="animated fadeInUp ">YANBU NATIONAL HOSPITAL</h3>
+                <h1 style="font-family: Cairo, sans-serif; letter-spacing: 1px;font-style: normal; " data-animation="animated fadeInUp "> مستشفى ينبع الوطني</h1>
+                <!-- <p data-animation="animated fadeInUp ">lorem 2018, ipsum out of sapien, consequa</p> -->
+                <a href="../all_dept.html" style="font-family: Cairo, sans-serif; letter-spacing: 1px;font-style: normal; border: 3px solid rgb(20, 112, 203) !important; " data-animation="animated fadeInUp ">الاقسام</a>
+            </div>
+        </div>
+        <!-- End of Slide -->
+
+        <!-- Second Slide -->
+        <div class="carousel-item ">
+            <!-- Slide Background -->
+            <img src="../assets/img/cert6.png" alt="fw_al_001_02 ">
+            <!-- Slide Text Layer -->
+            <div class="fw_al_001_slide ">
+                <!-- <h3 style="font-family: Cairo, sans-serif; letter-spacing: 1px; " data-animation="animated fadeInUp ">wrisus 2018</h3> -->
+                <h1 style="font-family: Cairo, sans-serif; letter-spacing: 1px;font-style: normal; " data-animation="animated fadeInUp "> جوائز مستشفى ينبع الوطني </h1>
+                <!-- <p  data-animation="animated fadeInUp ">lorem 2018, ipsum out of sapien, consequa</p> -->
+                <a style="font-family: Cairo, sans-serif; letter-spacing: 1px;font-style: normal; border: 3px solid rgb(20, 112, 203) !important; " href="../rewards.html" data-animation="animated fadeInUp ">الجوائز </a>
+            </div>
+        </div>
+        <!-- End of Slide -->
+
+        <!-- Third Slide -->
+        <div class="carousel-item ">
+
+            <!-- Slide Background -->
+            <img src="../assets/img/contect.jpg" alt="fw_al_001_03 ">
+
+            <!-- Slide Text Layer -->
+            <div class="fw_al_001_slide ">
+                <!-- <h3 data-animation="animated fadeInUp "></h3> -->
+                <h1 style="font-family: Cairo, sans-serif; letter-spacing: 1px;font-style: normal; " data-animation="animated fadeInUp ">نبذة عن مستشفى ينبع الوطني</h1>
+                <!-- <p data-animation="animated fadeInUp ">lorem 2018, ipsum out of sapien, consequa</p> -->
+                <a href="../about.html" style="font-family: Cairo, sans-serif; letter-spacing: 1px;font-style: normal; border: 3px solid rgb(20, 112, 203) !important; " data-animation="animated fadeInUp ">نبذة عنا</a>
+            </div>
+        </div>
+        <!-- End of Slide -->
+
+    </div>
+    <!-- End of Wrapper For Slides -->
+
+</div>
+<!-- End Paradise Slider -->
+
+<!-- End -->
+        <!-- End: Swipe Slider 7 -->
+    </div>
+    <main class="page landing-page">
+        <section class="clean-block about-us">
+            <div class="container">
+                <div data-aos="fade" class="block-heading">
+                    <h2 class="text-info" style="font-family: Tajawal, sans-serif;"><strong>أقسامنا الطبية</strong><br></h2>
+                    <p style="font-family: Cairo, sans-serif;">لقد جمعنا أفضل الأطباء في الرعاية الصحية لنقدم لك خدمة طبية فائقة الجودة بمستوى عالمي<br></p>
+                </div>
+                <div class="row justify-content-center" data-aos="fade">
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block" src="../assets/img/01.jpg">
+                            <div class="card-body info">
+                                <h4 class="card-title" style="font-family: Tajawal, sans-serif;"><strong>قسم أمراض العيون&nbsp;</strong><br></h4>
+                                <div><a class="btn btn-outline-primary" role="button" href="../dept/dept_detail_3.html">المزيد</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block" src="../assets/img/03.jpg">
+                            <div class="card-body info">
+                                <h4 class="card-title" style="font-family: Tajawal, sans-serif;"><strong>قسم امر اض النساء والولادة&nbsp;</strong></h4>
+                                <div><a class="btn btn-outline-primary" role="button" href="../dept/dept_detail_2.html">المزيد</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block" src="../assets/img/02.jpg">
+                            <div class="card-body info">
+                                <h4 class="card-title" style="font-family: Tajawal, sans-serif;"><strong>قسم الجراحه&nbsp;</strong><br></h4>
+                                <div><a class="btn btn-outline-primary" role="button" href="../dept/dept_detail1.html">المزيد</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block" src="../assets/img/03.jpg">
+                            <div class="card-body info">
+                                <h4 class="card-title" style="font-family: Tajawal, sans-serif;"><strong>قسم العظام&nbsp;والعلاج الطبيعي&nbsp;</strong></h4>
+                                <div><a class="btn btn-outline-primary" role="button" href="../dept/dept_detail_5.html">المزيد</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-lg-4">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block" src="../assets/img/01.jpg">
+                            <div class="card-body info">
+                                <h4 class="card-title" style="font-family: Tajawal, sans-serif;"><strong>قسم أمراض المسالك البولية&nbsp;</strong><br></h4>
+                                <div><a class="btn btn-outline-primary" role="button" href="../dept/dept_detail_4.html">المزيد</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="card clean-card text-center"><img class="card-img-top w-100 d-block" src="../assets/img/02.jpg">
+                            <div class="card-body info">
+                                <h4 class="card-title" style="font-family: Tajawal, sans-serif;"><strong>قسم أمراض القلب&nbsp;</strong><br></h4>
+                                <div><a class="btn btn-outline-primary" role="button" href="../dept/dept_detail_7.html">المزيد</a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div><a class="btn btn-outline-light btn-lg text-center shadow-sm d-xl-flex mx-auto align-items-xl-center action-button" role="button" data-aos="fade" style="width: 151px;font-size: 22px;border: 1px solid #01a982;color: #01a982;font-family: Tajawal, sans-serif;margin-top: 48px;"
+                    href="../all_dept.html">المزيد<i class="fa fa-plus-square" style="padding-left: 9px;font-size: 29px;"></i></a></div>
+        </section>
+        <section data-aos="slide-right" class="clean-block clean-info dark" style="background-image: url(&quot;../assets/img/01.jpg&quot;);background-repeat: no-repeat;background-size: cover;background-position: center;opacity: 1;filter: blur(0px);">
+            <div class="container">
+                <div class="block-heading">
+                    <h2 class="text-info" style="font-family: Cairo, sans-serif;font-size: 48px;">نبذة</h2>
+                </div>
+                <div class="row align-items-center">
+                    <div class="col-md-6"><img class="img-thumbnail" src="../assets/img/IMG-20220127-WA0035.jpg"></div>
+                    <div class="col-md-6">
+                        <h3 class="text-right" style="font-family: Tajawal, sans-serif;color: rgb(0,0,0);font-size: 20px;background-color: rgba(255,255,255,0.77);padding: 33px;line-height: 28px;">مستشفى ينبع الوطني هي إحدى مجموعات مستشفيات شركة المطبقاني للخدمات&nbsp;<br>ذات الخبرة الواسعة والتي تعتمد لاكثر من أربعين عاماَ , وتقع المستشفى في حي النواة التجاري بمدينة ينبع الصناعية وقد تم افتتاح المستشفى في 21 محرم 1422 الموافق&nbsp;2001-04-15
+                            م حيث تشرفت المستشفى بحضور سمو الامير مقرن بن عبد العزيز أمير منطقة المدينة المنورة وصحبة الكرام والذين قاموا بتفقد المستشفى وباركوا افتتاحها وابدوا إعجابهم بإلاستعدادات الطبية والخدمات الموجودة في المستشفى .</h3>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section data-aos="zoom-in" class="clean-block slider dark">
+            <div class="container-fluid">
+                <div class="block-heading">
+                    <h2 class="text-info" style="font-family: Cairo, sans-serif;">معرضنا</h2>
+                    <p style="font-family: Tajawal, sans-serif;">هنا بعض صور من&nbsp;مستشفى ينبع الوطني</p>
+                </div>
+                <!-- Start: --mp-- Multiple items slider responsive -->
+                <section>
+                    <div class="d-flex flex-row multiple-item-slider">
+                        <div class="justify-content-center spacer-slider">
+                            <figure class="figure"><img class="img-fluid figure-img" src="../assets/img/01.jpg" alt="alt text here"></figure>
+                        </div>
+                        <div class="justify-content-center spacer-slider">
+                            <figure class="figure"><img class="img-fluid figure-img mx-auto d-block" src="../assets/img/01.jpg" alt="alt text here"></figure>
+                        </div>
+                        <div class="justify-content-center spacer-slider">
+                            <figure class="figure"><img class="img-fluid figure-img" src="../assets/img/03.jpg" alt="alt text here"></figure>
+                        </div>
+                        <div class="justify-content-center spacer-slider">
+                            <figure class="figure"><img class="img-fluid figure-img" src="../assets/img/01.jpg" alt="alt text here"></figure>
+                        </div>
+                        <div class="justify-content-center spacer-slider">
+                            <figure class="figure"><img class="img-fluid figure-img" src="../assets/img/03.jpg" alt="alt text here"></figure>
+                        </div>
+                        <div class="justify-content-center spacer-slider">
+                            <figure class="figure"><img class="img-fluid figure-img" src="../assets/img/03.jpg" alt="alt text here"></figure>
+                        </div>
+                        <div class="justify-content-center spacer-slider">
+                            <figure class="figure"><img class="img-fluid figure-img" src="../assets/img/01.jpg" alt="alt text here"></figure>
+                        </div>
+                        <div class="justify-content-center spacer-slider">
+                            <figure class="figure"><img class="img-fluid figure-img d-flex" src="../assets/img/01.jpg" alt="alt text here"></figure>
+                        </div>
+                    </div>
+                </section>
+                <!-- End: --mp-- Multiple items slider responsive -->
+            </div>
+        </section>
+    </main>
+    <footer class="page-footer dark">
+        <div class="container-fluid">
+            <div class="row no-gutters row-cols-sm-4 row-cols-md-5 row-cols-lg-5 row-cols-xl-5 text-center d-xl-flex justify-content-xl-center align-items-xl-start" style="padding: -13px0;">
+                <div class="col text-left" style="margin-right: 65px;">
+                    <h5 class="text-center" style="font-family: Cairo, sans-serif;">تواصل</h5>
+                    <ul>
+                        <li><a href="#" style="font-family: Tajawal, sans-serif;">هاتف&nbsp;<br>014-3962000<br></a></li>
+                        <li><a href="#" style="font-family: Tajawal, sans-serif;">قسم التقارير الطبية والمواليد&nbsp;<br>014-39620001352-387</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-3 text-left">
+                    <h5 class="text-center" style="font-family: Cairo, sans-serif;">تابعنا على<br></h5>
+                    <ul class="social-icons" style="background-color: rgba(255,255,255,0);margin: -48px;">
+                        <li class="text-center d-flex d-lg-flex d-xl-inline-flex justify-content-center">
+                            <div class="d-table"><a href="https://twitter.com/ynh_mhs?s=11" target="_blank"><i class="icon ion-social-twitter"></i></a>
+                                <hr style="margin-top: -7px;color: rgba(255,255,255,0);"><a href="https://twitter.com/ynh_mhs?s=11" style="font-family: Tajawal, sans-serif;" target="_blank">تويتر</a></div>
+                            <div class="d-table"><a href="#"><i class="icon ion-social-instagram-outline"></i></a>
+                                <hr style="margin-top: -7px;color: rgba(255,255,255,0);"><a href="https://www.instagram.com/yanbunational/" style="font-family: Tajawal, sans-serif;" target="_blank">انستجرام</a></div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-sm-3 text-left">
+                    <h5 class="text-center" style="font-family: Cairo, sans-serif;">من نحن</h5>
+                    <ul>
+                        <li><a href="../contact-us.html" style="font-family: Tajawal, sans-serif;">تواصل معنا<br></a></li>
+                        <li><a href="../about.html" style="font-family: Tajawal, sans-serif;">نبذة عنا</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-3 text-left">
+                    <h5 class="text-center" style="font-family: Cairo, sans-serif;">الصفحة الرئيسية</h5>
+                    <ul>
+                        <li><a href="../all_dept.html" style="font-family: Tajawal, sans-serif;">الاقسام</a></li>
+                        <li><a class="d-flex justify-content-center justify-content-xl-start" href="../rewards.html" style="font-family: Tajawal, sans-serif;font-weight: normal;font-style: normal;color: #b5b5b5;"><strong>جوائز المستشفى</strong><br></a></li>
+                        <li><a href="../testimonials.html" style="font-family: Tajawal, sans-serif;">اراء الناس</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="footer-copyright">
+            <div class="text-center d-table d-xl-flex justify-content-xl-start align-items-xl-center" style="margin-left: 26px;"><a href="../statementprivacy.html" style="font-family: Tajawal, sans-serif;font-size: 12px;">سياسة الخصوصية</a><a href="#" style="font-family: Tajawal, sans-serif;margin-left: 26px;">|<br></a><a href="../terms_of_use.html" style="font-family: Tajawal, sans-serif;margin-right: 66px;margin-left: 31px;font-size: 12px;">تعليمات الاستخدام<br></a></div>
+            <p
+                class="text-center d-xl-flex justify-content-xl-center" style="font-family: Cairo, sans-serif;">Copyright © 2022&nbsp; حقوق النشر&nbsp; جميع الحقوق محفوظة لدى&nbsp;مستشفى ينبع الوطني<br></p>
+        </div>
+    </footer>
+    <script src="../assets/js/jquery.min.js"></script>
+    <script src="../assets/bootstrap/js/bootstrap.min.js"></script>
+    <script src="../assets/js/smart-forms.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.1.1/aos.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lightpick@1.3.4/lightpick.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.3.1/js/swiper.jquery.min.js"></script>
+    <script src="../assets/js/script.min.js"></script>
+</body>
+
+</html>
